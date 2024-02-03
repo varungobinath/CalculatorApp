@@ -9,5 +9,7 @@ public class Main {
         //Day3
         int t = n1+n2;
         System.out.println(t);
+        //Day 4
+        //SCientific
     }
 }
